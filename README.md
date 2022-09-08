@@ -2,7 +2,7 @@
 Notes for the book Expert Python Programming, Second Edition (Packt Publishing, 2016)
 
 ## TODO List
-- [ ] Python现状（Current Status of Python）
+- [x] [Python现状（Current Status of Python）](./01_CurrentStatusOfPython/01_CurrentStatusOfPython.ipynb)
 - [ ] 语法最佳实践——类级别以下（Syntax Best Practices – below the Class Level）
 - [ ] 语法最佳实践——类级别以上（Syntax Best Practices – above the Class Level）
 - [ ] 选择好的名称（Choosing Good Names）
